@@ -1,1 +1,22 @@
+/* Questions */
 
+1. What is the total count of vehicles in the database?
+2. How many unique make and model combinations are there?
+3. What is the average motor power (in kW) of vehicles in each vehicle class?
+4. Which make has the highest average range (in km) for all the models it offers?
+5. Which make has the highest average CO2 emissions (in g/km) across all its models?
+6. What is the overall average consumption in the city (in kWh/100 km)?
+7. Which vehicle class has the highest average consumption on highways (in kWh/100 km)?
+8. What is the average CO2 rating for each vehicle class?
+9. How many unique makes have a smog rating of "10"?
+10. What is the average recharge time (in hours) for each fuel type?
+11. Which make and model combination has the highest consumption in the city (in Le/100 km)?
+12. What is the rank of each make's average range (in km) within its vehicle class?
+13. For each make and model, what is the difference in consumption in the city (in kWh/100 km) compared to the average    consumption in the city for that make?
+14. Which make and model combination has the highest CO2 emissions (in g/km) within its vehicle class?
+15. For each make, what is the cumulative sum of CO2 emissions (in g/km) across all its models?
+16. What is the average range (in km) for each make's top 5 models in terms of range?
+17. What is the average consumption in the city (in kWh/100 km) for the top 10 models with the highest range?
+18. For each vehicle class, what is the running total of consumption on highways (in kWh/100 km) ordered by the make and model?
+19. What is the average recharge time (in hours) for each make's models in descending order of their average CO2 emissions?
+20. Which make has the highest difference in average CO2 emissions (in g/km) between its models and the average CO2 emissions across all makes?
